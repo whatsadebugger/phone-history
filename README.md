@@ -1,6 +1,21 @@
-# Work in progress!
+# phone-history
 
-This application will help you keep track of sales history
+## Project setup
+```
+npm install
+```
 
-Go back end
-Postgres database
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
